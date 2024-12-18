@@ -1,4 +1,4 @@
-# SecurityFocusOnline_June
+# SecurityFocusOnline_Dec
 - 本課程屬於初階的入門課程
 - 課程主要內容在簡報，這個 Repo 主要是放指令和程式碼方便複製  
 
