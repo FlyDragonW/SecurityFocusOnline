@@ -2,20 +2,20 @@
 - 本課程屬於初階的入門課程
 - 課程主要內容在簡報，這個 Repo 主要是放指令和程式碼方便複製  
 
-▲ 直播線上課程(Google Meet)連結：`<TBD>`
+▲ 直播線上課程(Google Meet)連結：https://meet.google.com/kbh-kyub-oct
 
 ▲ 課程簽到(表單開啟時間8:00)：  
-12/22(日) 簽到：`<TBD>`  
-12/29(日) 簽到：`<TBD>`  
+12/22(日) 簽到：https://forms.gle/bcCootTCESMrqiet6  
+12/29(日) 簽到：https://forms.gle/8zptcDJxsn6XJbk47  
 
-▲ Writeup 繳交表單：`<TBD>`  
-開放繳交時間：12/22(日)~12/30(一)
+▲ Writeup 繳交表單：https://forms.gle/svQYUHdtsmrELyY16  
+開放繳交時間：2024年12月22日（日）00:00 至 12月30日（一）23:59
 
-▲ 課程CTF平台： `<TBD>`  
-開啟時間：`<TBD>`
+▲ 課程CTF平台： http://23.146.248.233  
+開啟時間：2024年12月22日（日）08:00 至 12月30日（一）23:59
 
-▲ 回饋問卷調查：`<TBD>`  
-開放時間：`<TBD>`
+▲ 回饋問卷調查：https://forms.gle/kMZnwec3HeHz7VzCA  
+開放時間：2024年12月29日（日）13:00 至 12月30日（一）23:59
 
 ## 課前準備
 - 練習虛擬機使用和 Linux 基本指令
